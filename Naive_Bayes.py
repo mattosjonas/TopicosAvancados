@@ -8,7 +8,7 @@ import pandas as pd
 
 
 print('Algoritmo Naives Bayes')
-basedeDados = pd.read_csv('https://raw.githubusercontent.com/mattosjonas/TopicosAvancados/main/heart_failure_clinical_records_dataset.csv?token=ANYPQJSWKBDLNCCZXQYAPG3AYZWSY')
+basedeDados = pd.read_csv('https://raw.githubusercontent.com/mattosjonas/TopicosAvancados/main/heart_failure_clinical_records_dataset.csv')
 
 #print(basedeDados.describe())
 #print(basedeDados.columns)
